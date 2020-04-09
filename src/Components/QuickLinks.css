@@ -1,0 +1,9 @@
+.nav-pills .nav-link {
+  border-radius: 0.25rem;
+}
+
+.nav-link {
+  color: #fff;
+  font-weight: 400;
+  padding: 0.8rem 1.4rem;
+}
